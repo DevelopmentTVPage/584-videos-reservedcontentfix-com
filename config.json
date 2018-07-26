@@ -10,6 +10,7 @@
         "loginId": "1758823",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "reservedcontentfix.com"
+        "cookiedomain": "reservedcontentfix.com",
+        "reservedContent": "brands\/,categories\/,living\/,series\/,style\/,brand.md,brands.md,search.md,index.md"
     }
 }
